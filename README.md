@@ -12,3 +12,6 @@ This repository contains the code for an image gallery developed using HTML, CSS
 - HTML
 - CSS
 - JavaScript
+
+## Acknowledgements
+I would like to thank Code Alpha for the opportunity to work on this project during my internship. It has been a valuable learning experience.
